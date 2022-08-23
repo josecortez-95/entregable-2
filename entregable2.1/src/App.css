@@ -1,0 +1,42 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.App{
+    background-image: url(https://img.freepik.com/vector-gratis/fondo-cielo-pastel-acuarela-pintado-mano_23-2148920282.jpg?w=2000);
+    height: 100vh;
+}
+
+.imagenCarga{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+.imagCarga{
+    height: 100vh;
+}
+.cabecera{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+li{
+    list-style: none;
+}
+.cuerpoli{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.article{
+   display: flex;
+   flex-direction: column;
+   align-items: center;
+}
+.grados{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
